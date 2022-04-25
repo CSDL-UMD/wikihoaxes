@@ -3,7 +3,7 @@ import pickle
 
 # temporary for getting neighbors for the cohort
 # the file 'cohort_dict(parsing_pagecounts.ipynb).p' can be found in data/cohorts
-cohort_dict = pickle.load(open('cohort_dict(parsing_pagecounts.ipynb).p', 'rb'))
+cohort_dict = pickle.load(open('cohort_dict.p', 'rb'))
 
 def get_neighbors():
     conn = toolforge.connect('enwiki_p')
