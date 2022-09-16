@@ -19,7 +19,7 @@ most major operative systems (Windows, Linux, MacOS)
    https://conda.io/projects/conda/en/latest/user-guide/install/index.html
 3. Clone or download this repository
 ```
-git clone https://github.com/CSDL-USF/wiki-workshop-2022-elebiary-ciampaglia.git
+git clone https://github.com/CSDL-USF/wikihoaxes.git
 ```
 4. Open a terminal and run:
 ```
