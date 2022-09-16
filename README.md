@@ -1,6 +1,6 @@
 # Code and data for [A Elebiary, GL Ciampaglia. 2022](https://wikiworkshop.org/2022/papers/WikiWorkshop2022_paper_30.pdf)
 
-This repository contains a Jupyter notebook that replicates the coda and data for the paper.
+This repository contains the notebooks and the scripts required to replicate the paper's results.
 
 # Installation
 
