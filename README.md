@@ -29,7 +29,7 @@ git clone https://github.com/CSDL-USF/wikihoaxes.git
 ```
 
 ## Data
-[DATA](https://drive.google.com/drive/folders/1zrOTxxRABRgM741k1pb2RJ7oNSMGBIh8?usp=sharing) contains the data required to run plots.ipynb & data.ipynb
+[DATA](https://drive.google.com/drive/folders/1TpUy38Kj2RBqM94L2f8IvgllbOE89eTD?usp=sharing) contains the data required to run plots.ipynb & data.ipynb
 
 ## Replicating plots
 To open the notebook, follow the instructions above for installing the Python environment and for obtaining the dataset files. From the location where you downloaded this repository launch Jupyter Notebook with:
