@@ -2,7 +2,7 @@
 
 This repository contains a Jupyter notebook that replicates the coda and data for the paper.
 
-# 1. Installation
+# Installation
 
 The notebook was written in Python 3. A number of dependencies are to be
 installed before running it. A list of package requirements is provided. The
@@ -28,10 +28,10 @@ git clone https://github.com/CSDL-USF/wiki-workshop-2022-elebiary-ciampaglia.git
     conda activate wikihoaxes
 ```
 
-## data link
+## Data
 [DATA](https://drive.google.com/drive/folders/1zrOTxxRABRgM741k1pb2RJ7oNSMGBIh8?usp=sharing) contains the data required to run plots.ipynb & data.ipynb
 
-## replicating plots in the paper
+## Replicating plots
 To open the notebook, follow the instructions above for installing the Python environment and for obtaining the dataset files. From the location where you downloaded this repository launch Jupyter Notebook with:
 
     conda activate wikihoaxes
@@ -39,10 +39,10 @@ To open the notebook, follow the instructions above for installing the Python en
     
 This will open the notebook interface in your browser. It will show the contents of this repository. Click on the entry called plots.ipynb.
 
-## replicating data generation
+## Replicating data generation
 After opening the notebook interface, click on the notebook data.ipynb to regenerate the data to to use in plots.ipynb.
 
-## scripts
+## Wikimedia Toolforge server scripts
 The directory 'scripts' contains python files which are meant to run on Wikimedia's Toolforge server.
 For information on how to access Toolforge, consult the following link and check their quickstart guide:
 https://wikitech.wikimedia.org/wiki/Portal:Toolforge
