@@ -25,7 +25,7 @@ git clone https://github.com/CSDL-USF/wiki-workshop-2022-elebiary-ciampaglia.git
 ```
     cd wiki-workshop-2022-elebiary-ciampaglia
     conda env create --file environment.yml
-    conda activate twitch-overload
+    conda activate wikihoaxes
 ```
 
 ## plots replication
@@ -35,8 +35,7 @@ plots.ipynb: to recreate the plots found in the paper
 data.ipynb: to generate the data used within plots.ipynb
 
 ## data link
-The following link contains the data required to run plots.ipynb & data.ipynb
-https://drive.google.com/drive/folders/1zrOTxxRABRgM741k1pb2RJ7oNSMGBIh8?usp=sharing
+The following link contains the data required to run plots.ipynb & data.ipynb [DATA] (https://drive.google.com/drive/folders/1zrOTxxRABRgM741k1pb2RJ7oNSMGBIh8?usp=sharing)
 
 ## scripts
 The directory scripts contains .py files meant to run on Wikimedia's Toolforge server.
