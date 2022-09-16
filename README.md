@@ -23,7 +23,7 @@ git clone https://github.com/CSDL-USF/wiki-workshop-2022-elebiary-ciampaglia.git
 ```
 4. Open a terminal and run:
 ```
-    cd wiki-workshop-2022-elebiary-ciampaglia
+    cd wikihoaxes
     conda env create --file environment.yml
     conda activate wikihoaxes
 ```
