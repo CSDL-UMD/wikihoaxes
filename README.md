@@ -35,7 +35,7 @@ plots.ipynb: to recreate the plots found in the paper
 data.ipynb: to generate the data used within plots.ipynb
 
 ## data link
-The following link contains the data required to run plots.ipynb & data.ipynb [DATA] (https://drive.google.com/drive/folders/1zrOTxxRABRgM741k1pb2RJ7oNSMGBIh8?usp=sharing)
+The following link contains the data required to run plots.ipynb & data.ipynb [DATA](https://drive.google.com/drive/folders/1zrOTxxRABRgM741k1pb2RJ7oNSMGBIh8?usp=sharing)
 
 ## scripts
 The directory scripts contains .py files meant to run on Wikimedia's Toolforge server.
