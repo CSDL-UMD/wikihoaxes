@@ -40,7 +40,7 @@ To open the notebook, follow the instructions above for installing the Python en
 This will open the notebook interface in your browser. It will show the contents of this repository. Click on the entry called plots.ipynb.
 
 ## Replicating data generation
-After opening the notebook interface, click on the notebook data.ipynb to regenerate the data to to use in plots.ipynb.
+After opening the notebook interface, click on the notebook data.ipynb to regenerate the data used to generate the plots in plots.ipynb
 
 ## Wikimedia Toolforge server scripts
 The directory 'scripts' contains python files which are meant to run on Wikimedia's Toolforge server.
