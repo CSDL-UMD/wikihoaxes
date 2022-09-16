@@ -28,12 +28,6 @@ git clone https://github.com/CSDL-USF/wiki-workshop-2022-elebiary-ciampaglia.git
     conda activate wikihoaxes
 ```
 
-## plots replication
-plots.ipynb: to recreate the plots found in the paper
-
-## data generation
-data.ipynb: to generate the data used within plots.ipynb
-
 ## data link
 [DATA](https://drive.google.com/drive/folders/1zrOTxxRABRgM741k1pb2RJ7oNSMGBIh8?usp=sharing) contains the data required to run plots.ipynb & data.ipynb
 
@@ -49,7 +43,7 @@ This will open the notebook interface in your browser. It will show the contents
 After opening the notebook interface, click on the notebook data.ipynb to regenerate the data to to use in plots.ipynb.
 
 ## scripts
-The directory scripts contains .py files meant to run on Wikimedia's Toolforge server.
+The directory 'scripts' contains python files which are meant to run on Wikimedia's Toolforge server.
 For information on how to access Toolforge, consult the following link and check their quickstart guide:
 https://wikitech.wikimedia.org/wiki/Portal:Toolforge
 
