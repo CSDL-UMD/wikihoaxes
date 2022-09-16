@@ -1,5 +1,32 @@
-# wiki-workshop-2022-elebiary-ciampaglia
-Replication code and data for Elebiary and Ciampaglia Wiki Workshop 2022.
+# Code and data for [A Elebiary, GL Ciampaglia. 2022](https://wikiworkshop.org/2022/papers/WikiWorkshop2022_paper_30.pdf)
+
+This repository contains a Jupyter notebook that replicates the coda and data for the paper.
+
+# 1. Installation
+
+The notebook was written in Python 3. A number of dependencies are to be
+installed before running it. A list of package requirements is provided. The
+simplest method is to run a package manager such as pip or conda. It is
+recommended that all dependencies are installed in a separate Python
+environment.
+
+The best way to do so is to use the Miniconda, which is a small bootstrap
+version of the largest Anaconda Python distribution. Miniconda is available for
+most major operative systems (Windows, Linux, MacOS) 
+
+1. Download Miniconda from here: https://conda.io/miniconda.html
+2. Follow the installation instruction for your platform:
+   https://conda.io/projects/conda/en/latest/user-guide/install/index.html
+3. Clone or download this repository
+```
+
+```
+4. Open a terminal and run:
+```
+    cd twitch-overload
+    conda env create --file environment.yml
+    conda activate twitch-overload
+```
 
 ## plots replication
 plots.ipynb: to recreate the plots found in the paper
